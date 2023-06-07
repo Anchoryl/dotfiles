@@ -3,6 +3,7 @@ filetype plugin indent on
 set number
 set relativenumber
 
+syntax enable
 colorscheme solarized
 
 let mapleader = ' '
